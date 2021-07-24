@@ -1,0 +1,54 @@
+                #layout {
+                    border-style: solid;
+                    border-radius: 20px;
+                    border: 2px black;
+                    background-color: #2b4f62;
+                    justify-content: center;
+                    text-align: center;
+                    height: 300px;
+                    width: 400px;
+                    padding-top: 100px;
+                    margin-top: 50px;
+                    margin-left: 500px;
+                }
+                
+                h2 {
+                    font-family: Arial, Helvetica, sans-serif;
+                    color: rgb(51, 50, 50);
+                    font-size: 40px;
+                }
+                
+                #value {
+                    font-size: 60px;
+                }
+                
+                .buttons {
+                    margin-top: 20px;
+                }
+                
+                .btn {
+                    border: black;
+                    border-radius: 5px;
+                    background-color: snow;
+                    color: rgb(25, 75, 240);
+                    font-weight: 200px;
+                    font-size: 17px;
+                }
+                
+                .increase:hover {
+                    background-color: rgb(132, 180, 59);
+                    cursor: pointer;
+                    color: wheat;
+                }
+                
+                .decrease:hover {
+                    cursor: pointer;
+                    background-color: rgb(240, 83, 83);
+                    color: wheat;
+                }
+                
+                .reset:hover {
+                    cursor: pointer;
+                    color: wheat;
+                    background-color: rgb(58, 119, 233);
+                }
